@@ -1,0 +1,11 @@
+div.a {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    color: #00A3DC;
+  }
+
+
+  div.b {
+    font-size: 1em;
+    color: #00C9B7;
+  }
